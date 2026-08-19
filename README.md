@@ -13,8 +13,8 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Your name, your role, your links |
-| About | Two or three sentences about you |
+| Home | ALVARO MOLINA, STUDENT, [your links](https://github.com/alvaromol0118-design/English-profile/edit/main/README.md) |
+| About | I am a person who loves to learn new things every day. My main goal is to work hard and build a bright future. In my free time, I enjoy reading books and helping people |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
