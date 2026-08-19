@@ -15,10 +15,10 @@ A public web page with six sections:
 |---|---|
 | Home | ALVARO MOLINA, STUDENT, [your links](https://github.com/alvaromol0118-design/English-profile/edit/main/README.md) |
 | About | I am a person who loves to learn new things every day. My main goal is to work hard and build a bright future. In my free time, I enjoy reading books and helping people |
-| Skills | Your technical and professional skills |
-| Resume | Your education and your experience |
-| Projects | The projects you have built |
-| Contact | How people can reach you |
+| Skills | Analytical resolution of abstract and practical problems; clarity, conciseness, and logical structuring of informational content. |
+| Resume | Fourth semester of the Professional Technician program in Web Programming |
+| Projects | Finance-Movil |
+| Contact | 3214182985|
 
 ---
 
