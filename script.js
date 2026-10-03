@@ -30,7 +30,7 @@ const ES = {
   "about.text":           "Soy estudiante de desarrollo web y me apasiona crear aplicaciones web limpias, adaptables (responsive) e intuitivas. Me encanta transformar ideas de diseño en código funcional y aprender continuamente sobre tecnologías web modernas. Actualmente, busco una oportunidad de prácticas donde pueda contribuir a proyectos reales y crecer como desarrollador.]",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
-  "about.valueLocation":  "[Ciudad], Colombia",
+  "about.valueLocation":  "Girardot, Colombia",
   "about.labelEmail":     "Correo",
   "about.labelLanguages": "Idiomas",
   "about.valueLanguages": "Español (nativo) · Inglés ([tu nivel])",
