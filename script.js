@@ -56,7 +56,7 @@ const ES = {
   "resume.experience": "Experiencia",
 
   "edu.1.title": "Técnico Profesional en Programación Web",
-  "edu.1.text":  "Focusing on frontend and backend web development, database management, and building responsive web applications.",
+  "edu.1.text":  "Centrado en el desarrollo web frontend y backend, la gestión de bases de datos y la creación de aplicaciones web responsivas.",
   "edu.2.title": "[Curso o certificación]",
   "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
 
@@ -130,7 +130,7 @@ const EN = {
   "resume.experience": "Experience",
 
   "edu.1.title": "Professional Technician in Web Programming",
-  "edu.1.text":  "[One or two sentences about what you are learning and what you can do now.]",
+  "edu.1.text":  "Focusing on frontend and backend web development, database management, and building responsive web applications.",
   "edu.2.title": "[Course or certificate]",
   "edu.2.text":  "[What you learned and how you use it.]",
 
