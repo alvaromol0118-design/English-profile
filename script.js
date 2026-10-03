@@ -105,7 +105,7 @@ const EN = {
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
   "about.valueLocation":  "[Girardot], Colombia",
-  "about.labelEmail":     "Amolina22@itfip.edu.co",
+  "about.labelEmail":     "[email]",
   "about.labelLanguages": "Languages",
   "about.valueLanguages": "Spanish (native) · English (B1)",
   "about.labelStatus":    "Availability",
