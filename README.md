@@ -22,7 +22,7 @@ The language is changed with the **ES / EN** button in the header.
 - `index.html` · page structure
 - `style.css` · styles (colours are defined in `:root`)
 - `script.js` · Spanish and English texts, language switcher, menu and skill bars
-- `images/` · `profile.jpg` and `project-1.png`
+- `images/` · `profile.png` and `project-1.png`
 - `NOTES.md` · translation reflection (in English)
 
 ## Technical notes

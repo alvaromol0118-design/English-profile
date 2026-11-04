@@ -15,7 +15,7 @@ const ES = {
   "hero.role": "Desarrollador Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "Soy estudiante de desarrollo web y me apasiona crear aplicaciones web limpias, adaptables (responsive) e intuitivas. Me encanta transformar ideas de diseño en código funcional y aprender continuamente sobre tecnologías web modernas. Actualmente, busco una oportunidad de prácticas donde pueda contribuir a proyectos reales y crecer como desarrollador.",
+  "about.text":           "Soy estudiante de desarrollo web y me apasiona crear aplicaciones web limpias, adaptables e intuitivas. Me encanta transformar ideas de diseño en código funcional y aprender continuamente sobre tecnologías web modernas. Actualmente, busco una oportunidad de prácticas donde pueda contribuir a proyectos reales y crecer como desarrollador.",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "Girardot, Colombia",

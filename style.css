@@ -148,6 +148,7 @@ a { color: inherit; }
   width: 180px;
   height: 180px;
   object-fit: cover;
+  object-position: 70% center;
   border-radius: 50%;
   border: 8px solid var(--color-acento);
   display: block;
@@ -383,36 +384,43 @@ footer .redes a {
 }
 
 .proyecto {
-  position: relative;
-  display: block;
+  display: flex;
+  flex-direction: column;
   overflow: hidden;
   border-radius: 8px;
   background-color: var(--color-fondo-oscuro);
-  min-height: 200px;
-  text-decoration: none;
+  max-width: 460px;
+  transition: transform .3s;
 }
 
-.proyecto img { width: 100%; display: block; }
+.proyecto:hover { transform: translateY(-5px); }
+
+.proyecto img {
+  width: 100%;
+  display: block;
+  background-color: #ffffff;
+}
 
 .proyecto .overlay {
-  position: absolute;
-  inset: 0;
-  text-align: center;
-  background: rgba(28, 182, 152, .88);
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  padding: 20px;
-  transition: opacity .5s;
-  font-size: 16px;
-  letter-spacing: 1px;
-  opacity: 0;
+  padding: 22px;
+  text-align: left;
+  font-size: 15px;
+  line-height: 23px;
+  color: var(--color-texto-suave);
 }
 
-.proyecto:hover .overlay,
-.proyecto:focus-visible .overlay { opacity: 1; }
+.proyecto .overlay h3 {
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-family: var(--fuente-titulo);
+  color: var(--color-acento);
+}
 
-.proyecto .overlay h3 { margin-bottom: 10px; font-size: 19px; }
+.proyecto .overlay p + p {
+  margin-top: 10px;
+  font-size: 14px;
+  color: var(--color-texto);
+}
 
 /* ---------- CONTACT ---------- */
 .contacto-intro {
@@ -507,7 +515,6 @@ footer .arriba {
   .sobremi h2, .skills h2, .curriculum h2,
   .portfolio h2, .contacto h2 { font-size: 32px; }
 
-  .proyecto .overlay { opacity: 1; background: rgba(28,182,152,.75); }
 }
 
 /* ---------- ACCESSIBILITY ---------- */
